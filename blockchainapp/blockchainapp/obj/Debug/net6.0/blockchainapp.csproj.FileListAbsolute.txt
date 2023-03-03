@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\blockchainapp\blockchainapp\obj\Debug\net6.0\blockchainapp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\blockchainapp\blockchainapp\obj\Debug\net6.0\blockchainapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\blockchainapp\blockchainapp\obj\Debug\net6.0\blockchainapp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\blockchainapp\blockchainapp\obj\Debug\net6.0\blockchainapp.AssemblyInfo.cs
+C:\Users\HP\Desktop\blockchainapp\blockchainapp\obj\Debug\net6.0\blockchainapp.csproj.CoreCompileInputs.cache
